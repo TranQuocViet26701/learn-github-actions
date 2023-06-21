@@ -12,8 +12,6 @@ on:
       - 'feature/*'
       - 'feature/**'
       - '!feature/prohibit'
-    tags:
-      - v1
     paths:
       - '**.py'
       - '!prohibit.py'
